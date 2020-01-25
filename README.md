@@ -8,10 +8,12 @@ Une fois le compte créé et les informations ajoutées, un email sera envoyé a
 
 
 <h2>ERD</h2>
-![drawing alt text](https://docs.google.com/drawings/d/1eDlTz5qp2Az6Fb1Ft6MbTRga3WCCuWLVSla9ARuZm4s/edit?usp=sharing)
+
+![routes](public/images/erd.png) 
 
 <h2>Les routes</h2>
-![drawing alt text](https://docs.google.com/drawings/d/1i1xTxuKQBfTYxp1Yzby_eijqBThImDpYQFfwzcZIco0/edit?usp=sharing)
+
+![routes](public/images/routes.png) 
 
 Frontend Technologies :
 HTML
