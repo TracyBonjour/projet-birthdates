@@ -23,11 +23,12 @@ Voici les différentes routes de Birthdates :
 ![routes](public/images/routes.png) 
 
 <h2>Langages web utilisés</h2>
+
 - Frontend Technologies :
   HTML
   Javascript
   CSS
 
- - Backend Technologies :
+- Backend Technologies :
    Nodejs
 
