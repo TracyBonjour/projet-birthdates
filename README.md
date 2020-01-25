@@ -2,5 +2,5 @@
 
 <h1>Birthdates</h1>
 
-Il s'agit d'une application qui permet d'envoyer automatiquement des mails d'anniversaires a nos proches.
+Il s'agit d'une application qui permet d'envoyer automatiquement des mails d'anniversaires a nos proches.<br>
 Une fois le compte créé et les informations ajoutées, un email sera envoyé automatiquement à la personne concernée le jour de son anniversaire.
