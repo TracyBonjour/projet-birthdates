@@ -3,8 +3,8 @@
 
 <h1>Le concept</h1>
 
-Il s'agit d'une application responsive qui permet d'envoyer automatiquement des mails d'anniversaires a nos proches.<br>
-Une fois le compte créé et les informations ajoutées, un email sera envoyé automatiquement à la personne concernée le jour de son anniversaire.
+Il s'agit d'une application responsive qui permet d'envoyer automatiquement des mails d'anniversaires a vos proches.<br>
+Une fois le compte créé et les informations ajoutées, un email sera envoyé automatiquement chaque année à la personne concernée le jour de son anniversaire.
 
 Voici le lien de Birthdates : https://birthdatestracymarina.herokuapp.com/
 
