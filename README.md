@@ -3,7 +3,7 @@
 
 <h1>Le concept</h1>
 
-Il s'agit d'une application qui permet d'envoyer automatiquement des mails d'anniversaires a nos proches.<br>
+Il s'agit d'une application responsive qui permet d'envoyer automatiquement des mails d'anniversaires a nos proches.<br>
 Une fois le compte créé et les informations ajoutées, un email sera envoyé automatiquement à la personne concernée le jour de son anniversaire.
 
 Voici le lien de Birthdates : https://birthdatestracymarina.herokuapp.com/
@@ -20,6 +20,13 @@ Voici le diagramme entité-relation des 2 models de Birthdates :
 Voici les différentes routes de Birthdates :
 
 ![routes](public/images/routes.png) 
+
+Avec Birthdates vous pouvez :
+- créer votre profil
+- vous connecter
+- ajouter les anniversaires à ne pas oublier
+- modifier et / ou supprimer les anniversaires déjà créés
+- vous déconnecter
 
 <h2>Langages web utilisés</h2>
 
