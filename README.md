@@ -12,3 +12,12 @@ Une fois le compte créé et les informations ajoutées, un email sera envoyé a
 
 <h2>Les routes</h2>
 ![drawing alt text](https://docs.google.com/drawings/d/1i1xTxuKQBfTYxp1Yzby_eijqBThImDpYQFfwzcZIco0/edit?usp=sharing)
+
+Frontend Technologies :
+HTML
+Javascript
+CSS
+
+Backend Technologies :
+Nodejs
+
