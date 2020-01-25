@@ -9,12 +9,6 @@ Une fois le compte créé et les informations ajoutées, un email sera envoyé a
 Voici le lien de Birthdates : https://birthdatestracymarina.herokuapp.com/
 
 
-<h2>ERD</h2>
-
-Voici le diagramme entité-relation des 2 models de Birthdates :
-
-![erd](public/images/erd.png) 
-
 <h2>Les routes</h2>
 
 Voici les différentes routes de Birthdates :
@@ -27,6 +21,12 @@ Avec Birthdates vous pouvez :
 - ajouter les anniversaires à ne pas oublier
 - modifier et / ou supprimer les anniversaires déjà créés
 - vous déconnecter
+
+<h2>ERD</h2>
+
+Voici le diagramme entité-relation des 2 models de Birthdates :
+
+![erd](public/images/erd.png) 
 
 <h2>Langages web utilisés</h2>
 
