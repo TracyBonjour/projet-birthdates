@@ -1,4 +1,4 @@
-<a href="https://birthdatestracymarina.herokuapp.com/"><img src="public/images/erd.jpg" alt="logosloth" width="200" height="200"></a>
+<a href="https://birthdatestracymarina.herokuapp.com/"><img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiS-t7W2p7nAhWLHRQKHZBSBv0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F405605510192070858%2F&psig=AOvVaw0_b3v-ye9P_RauWBazTHEP&ust=1580040204855989" width="200" height="200"></a>
 
 <h1>Birthdates</h1>
 
